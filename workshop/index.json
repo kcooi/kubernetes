@@ -1,8 +1,6 @@
 {
   "title": "Kubernetes Workshop",
   "description": "2 Day Training",
-  "difficulty": "Beginner",
-  "time": "8 hours",
   "details": {
     "steps": [
       {
@@ -18,9 +16,9 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "minikube-running"
+    "imageid": "node"
   }
 }
