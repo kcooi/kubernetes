@@ -1,0 +1,22 @@
+{
+  "title": "k8s-cluster handson",
+  "description": "",
+  "difficulty": "Beginner",
+  "time": "60 minutes",
+  "details": {
+    "steps": [],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal-iframe"
+  },
+  "backend": {
+    "imageid": "kubernetes-cluster-running",
+    "port": "30000"
+  }
+}
