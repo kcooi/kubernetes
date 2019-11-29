@@ -3,9 +3,6 @@
   "description": "running-1",
   "difficulty": "Beginner",
   "time": "60 minutes",
-  "details": {
-    }
-  },
   "environment": {
     "uilayout": "terminal"
   },
