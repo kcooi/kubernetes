@@ -1,20 +1,9 @@
 {
   "title": "minikube-running",
-  "description": "test2",
+  "description": "running-1",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
-    "steps": [
-      {
-        "title": "Step 1",
-        "text": "step1.md"
-      }
-    ],
-    "intro": {
-      "text": "intro.md"
-    },
-    "finish": {
-      "text": "finish.md"
     }
   },
   "environment": {
