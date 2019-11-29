@@ -1,8 +1,6 @@
 {
   "title": "minikube-running",
-  "description": "running-2",
-  "difficulty": "Beginner",
-  "time": "60 minutes",
+  "description": "running-3",
   "environment": {
     "uilayout": "terminal"
   },
